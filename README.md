@@ -1,12 +1,12 @@
 # Sport App
-  This project uses PHP Symfony and Angular
+  This project uses PHP Symfony and Angular frameworks
 # To download
   https://windows.php.net/download/<br>
   https://getcomposer.org<br>
   https://symfony.com/download<br>
   https://nodejs.org/en<br>
-  https://www.jetbrains.com/phpstorm/<br>
-  https://www.jetbrains.com/webstorm/<br>
+  https://www.jetbrains.com/phpstorm/ (optional)<br>
+  https://www.jetbrains.com/webstorm/ (optional)<br>
 # Getting started
   <b>Angular</b><br>
     Run ```ng serve``` for a dev server. Navigate to http://localhost:4200. The application will automatically reload if you change any of the source files.<br><br>
