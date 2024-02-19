@@ -1,5 +1,5 @@
 # Sport App
-<b>This project uses PHP Symfony and Angular frameworks</b>
+### This project uses PHP Symfony and Angular frameworks
 ## Description
 <b>Personalized Profile:</b><br>
 Create a personal account with photos and information about your physical parameters and fitness goals. Statistics of training and achievements. Ability to make payments and follow them
